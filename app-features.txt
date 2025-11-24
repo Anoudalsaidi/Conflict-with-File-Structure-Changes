@@ -1,4 +1,9 @@
+
+Save the file
+Open app-features.txt
+Delete all content and write these sentences:
 Features:
 User Login
 Task Creation
-Basic Dashboard
+Advanced Dashboard with Analytics
+Team Collaboration
