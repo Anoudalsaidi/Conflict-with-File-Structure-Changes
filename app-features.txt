@@ -3,7 +3,14 @@ Save the file
 Open app-features.txt
 Delete all content and write these sentences:
 Features:
-User Login
+User Login with Two-Factor Authentication
 Task Creation
+ security-update
+Basic Dashboard
+Two-Factor Authentication, Security Monitoring
+Security Monitoring
+
 Advanced Dashboard with Analytics
+Advanced Dashboard, Team Collaboration
 Team Collaboration
+
